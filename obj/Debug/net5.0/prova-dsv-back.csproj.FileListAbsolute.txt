@@ -26,3 +26,8 @@
 /Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/obj/Debug/net5.0/ref/prova-dsv-back.dll
 /Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/obj/Debug/net5.0/prova-dsv-back.pdb
 /Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/obj/Debug/net5.0/prova-dsv-back.genruntimeconfig.cache
+/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll

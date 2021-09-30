@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace prova_dsv_back
 {
@@ -26,7 +27,9 @@ namespace prova_dsv_back
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddDbContext<ApiContext>(options => options.UseInMemoryDatabase("test"));    
+            
+            services.AddTransient<BookRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
