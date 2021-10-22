@@ -735,19 +735,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/viniciuslojhan/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/prova-dsv-back.csproj",
+      "projectUniqueName": "/app/prova-dsv-back.csproj",
       "projectName": "prova-dsv-back",
-      "projectPath": "/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/prova-dsv-back.csproj",
-      "packagesPath": "/Users/viniciuslojhan/.nuget/packages/",
-      "outputPath": "/Users/viniciuslojhan/Development/Faculdade/DSV/prova/prova-dsv-back/obj/",
+      "projectPath": "/app/prova-dsv-back.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/viniciuslojhan/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -798,7 +798,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.303/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
